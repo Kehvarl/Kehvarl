@@ -16,7 +16,7 @@ What would be needed for my own escape room type game?
 Is it time to set games aside for a bit?
 Or perhaps try something other than Ruby?
 
-@ 260722
+# 260722
 "Now what," I ask myself.  "Code doesn't want to be written, and ideas won't form."
 And now I'm writing narrative about it.
 Lo how the mighty have fallen.
@@ -27,3 +27,6 @@ Had some basic ideas though
 - Vertical Scrolling Shooter.
 - Dating Sim
 As you can see the difficulty rating is all over the place.
+
+#260723
+Did some prep work for a conway's game of life implementation in DRGTK
